@@ -112,11 +112,11 @@ enableEmoji = true
     languageName = "English"
     contentDir = "content/en"
 
-  [languages.de]
-    title = "The Wine Quest"
-    weight = 20
-    contentDir = "content/de"
-    languageName = "Deutsch"
+#  [languages.de]
+#    title = "The Wine Quest"
+#    weight = 20
+#    contentDir = "content/de"
+#    languageName = "Deutsch"
 
 [caches]
   [caches.images]
